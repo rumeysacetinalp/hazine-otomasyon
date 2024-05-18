@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\proje1\proje1\bin\Debug\proje1.exe.config
+C:\Users\LENOVO\source\repos\proje1\proje1\bin\Debug\proje1.exe
+C:\Users\LENOVO\source\repos\proje1\proje1\bin\Debug\proje1.pdb
+C:\Users\LENOVO\source\repos\proje1\proje1\obj\Debug\proje1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\proje1\proje1\obj\Debug\proje1.Form1.resources
+C:\Users\LENOVO\source\repos\proje1\proje1\obj\Debug\proje1.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\proje1\proje1\obj\Debug\proje1.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\proje1\proje1\obj\Debug\proje1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\proje1\proje1\obj\Debug\proje1.exe
+C:\Users\LENOVO\source\repos\proje1\proje1\obj\Debug\proje1.pdb
+C:\Users\LENOVO\source\repos\proje1\proje1\obj\Debug\proje1.DoubleBufferedPanel.resources
